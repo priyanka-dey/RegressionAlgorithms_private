@@ -1,0 +1,4 @@
+{ "prescript_commands": [ "pip install --upgrade scikit-learn pandas numpy matplotlib pytoml tqdm requests"
+],
+    "entrypoint": "regression_grader"
+}
