@@ -1,4 +1,4 @@
-### this is the file that needs to be changed and each user needs to implement the class Regressor with the functions listed  
+#### this is the file that needs to be changed and each user needs to implement the class Regressor with the functions listed  
 
 from sklearn.linear_model import LogisticRegression as logistic_regression
 from sklearn.metrics import classification_report, f1_score
